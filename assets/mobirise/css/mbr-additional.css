@@ -587,3 +587,9 @@ a:hover {
 #header4-5 .mbr-table-cell {
   vertical-align: middle;
 }
+#custom-html-6 {
+  /* Type valid CSS here */
+}
+#custom-html-6 .my-image {
+  width: 100%;
+}
